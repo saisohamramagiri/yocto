@@ -1,0 +1,5 @@
+module qml-brightness-socket
+typeinfo appqml-brightness-socket.qmltypes
+prefer :/qt/qml/qml-brightness-socket/
+BrightnessMain 1.0 BrightnessMain.qml
+

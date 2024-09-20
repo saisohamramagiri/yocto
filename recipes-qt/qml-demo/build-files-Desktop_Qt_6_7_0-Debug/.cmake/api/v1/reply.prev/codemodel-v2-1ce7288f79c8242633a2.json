@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4cdd492d01ef0af0c2db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qml_demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-09a2613547728d3b04af.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-9c87b79e2ae19573a71f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-5f466a3177e4dfc95da4.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-5f6c1e2c8a5eff12b8d3.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo-Debug-68f0399bb8296d7a6c73.json",
+					"name" : "app_qml_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo_autogen-Debug-8cf5f3dc85320b8a8513.json",
+					"name" : "app_qml_demo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo_autogen_timestamp_deps-Debug-2276fcbd49631ffeb087.json",
+					"name" : "app_qml_demo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo_qmlimportscan-Debug-c2e5933753c9f449719b.json",
+					"name" : "app_qml_demo_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo_qmllint-Debug-6290911ba645dc122a96.json",
+					"name" : "app_qml_demo_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo_qmllint_json-Debug-b872a3ddab7b06bd2c99.json",
+					"name" : "app_qml_demo_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo_qmllint_module-Debug-637f050c7875ccbdc0b7.json",
+					"name" : "app_qml_demo_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo_qmltyperegistration-Debug-974da4d06efea0f6e8d9.json",
+					"name" : "app_qml_demo_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_qml_demo_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_qml_demo_tooling-Debug-ebb4dd4a784501a1c040.json",
+					"name" : "app_qml_demo_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/build-files-Desktop_Qt_6_7_0-Debug",
+		"source" : "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/files"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,5 @@
+--resource
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-brightness-socket/qml-brightness-socket/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_qml-brightness-socket.qrc
+--resource
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-brightness-socket/qml-brightness-socket/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/appqml-brightness-socket_raw_qml_0.qrc
+/qt/qml/qml-brightness-socket/BrightnessMain.qml

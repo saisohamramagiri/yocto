@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml_demo">
+    <file alias="qmldir">/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/build-files-Desktop_Qt_6_7_0-Debug/qml_demo/qmldir</file>
+  </qresource>
+</RCC>
+

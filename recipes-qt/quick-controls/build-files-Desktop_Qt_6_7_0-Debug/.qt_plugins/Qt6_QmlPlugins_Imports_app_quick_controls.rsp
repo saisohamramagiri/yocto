@@ -1,0 +1,14 @@
+-rootPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/files
+-cmake-output
+-output-file
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app_quick_controls.cmake
+-importPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug/quick_controls
+-importPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug
+-importPath
+/home/fz33vf/Qt/6.7.0/gcc_64/./qml
+-qrcFiles
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug/.rcc/qmake_quick_controls.qrc
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug/.rcc/app_quick_controls_raw_qml_0.qrc

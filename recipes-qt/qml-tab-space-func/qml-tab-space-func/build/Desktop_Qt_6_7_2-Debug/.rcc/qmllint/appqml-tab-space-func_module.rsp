@@ -1,0 +1,10 @@
+-I
+/home/jzz0b5/yocto-new/sources/meta-santhosh/recipes-qt/qml-tab-space-func/qml-tab-space-func/build/Desktop_Qt_6_7_2-Debug
+-I
+/home/jzz0b5/Qt/6.7.2/gcc_64/./qml
+--resource
+/home/jzz0b5/yocto-new/sources/meta-santhosh/recipes-qt/qml-tab-space-func/qml-tab-space-func/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_qml-tab-space-func.qrc
+--resource
+/home/jzz0b5/yocto-new/sources/meta-santhosh/recipes-qt/qml-tab-space-func/qml-tab-space-func/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/appqml-tab-space-func_raw_qml_0.qrc
+--module
+qml-tab-space-func

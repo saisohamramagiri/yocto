@@ -1,0 +1,8 @@
+module qml-client2
+linktarget appqml-client2plugin
+optional plugin appqml-client2plugin
+classname qml_client2Plugin
+typeinfo appqml-client2.qmltypes
+prefer :/qt/qml/qml-client2/
+Client2Main 1.0 Client2Main.qml
+

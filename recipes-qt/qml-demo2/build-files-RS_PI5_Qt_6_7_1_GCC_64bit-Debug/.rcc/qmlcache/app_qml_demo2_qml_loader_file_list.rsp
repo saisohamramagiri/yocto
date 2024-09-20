@@ -1,0 +1,5 @@
+--resource
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/.qt/rcc/qmake_qml_demo.qrc
+--resource
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/.qt/rcc/app_qml_demo2_raw_qml_0.qrc
+/qml_demo/Main_2.qml

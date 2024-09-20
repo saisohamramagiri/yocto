@@ -1,0 +1,5 @@
+module quick_controls
+typeinfo app_quick_controls.qmltypes
+prefer :/quick_controls/
+Main2 1.0 Main2.qml
+

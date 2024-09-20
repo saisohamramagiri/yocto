@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/ivi_compositor">/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/ivi-compositor/build-files-Desktop_Qt_6_7_0-Debug/ivi_compositor</file>
+
+  </qresource>
+</RCC>

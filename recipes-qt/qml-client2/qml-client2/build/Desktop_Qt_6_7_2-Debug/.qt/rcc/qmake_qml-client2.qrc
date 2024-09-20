@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qml-client2">
+    <file alias="qmldir">/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-client2/qml-client2/build/Desktop_Qt_6_7_2-Debug/qml-client2/qmldir</file>
+  </qresource>
+</RCC>
+

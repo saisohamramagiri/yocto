@@ -1,0 +1,14 @@
+-rootPath
+/home/jzz0b5/yacto/meta-santhosh/recipes-qt/qml-brightness-socket/qml-brightness-socket
+-cmake-output
+-output-file
+/home/jzz0b5/yacto/meta-santhosh/recipes-qt/qml-brightness-socket/qml-brightness-socket/build/Desktop_Qt_6_7_2-Debug/.qt/qml_imports/appqml-brightness-socket_build.cmake
+-importPath
+/home/jzz0b5/yacto/meta-santhosh/recipes-qt/qml-brightness-socket/qml-brightness-socket/build/Desktop_Qt_6_7_2-Debug/qml-brightness-socket
+-importPath
+/home/jzz0b5/yacto/meta-santhosh/recipes-qt/qml-brightness-socket/qml-brightness-socket/build/Desktop_Qt_6_7_2-Debug
+-importPath
+/home/jzz0b5/Qt/6.7.2/gcc_64/./qml
+-qrcFiles
+/home/jzz0b5/yacto/meta-santhosh/recipes-qt/qml-brightness-socket/qml-brightness-socket/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_qml-brightness-socket.qrc
+/home/jzz0b5/yacto/meta-santhosh/recipes-qt/qml-brightness-socket/qml-brightness-socket/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/appqml-brightness-socket_raw_qml_0.qrc

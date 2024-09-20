@@ -1,0 +1,79 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "QtIVI_compositor_tooling::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QtIVI_compositor_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "QtIVI_compositor_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "QtIVI_compositor_autogen::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "QtIVI_compositor_autogen",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/ivi-compositor/build-files-Desktop_Qt_6_7_0-Debug/CMakeFiles/QtIVI_compositor_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/ivi-compositor/build-files-Desktop_Qt_6_7_0-Debug/CMakeFiles/QtIVI_compositor_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/ivi-compositor/build-files-Desktop_Qt_6_7_0-Debug/QtIVI_compositor_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f7c7eec92bc9ae4ce528.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qml_demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1aec1233e8ebc0741054.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-af70e183a96a87294a2f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a363ce103768a1ed72a5.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-cdc2ee25628fb082955b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls-Debug-f5f55be12baed2fc1783.json",
+					"name" : "app_quick_controls",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls_autogen-Debug-8d8bd198fab78ae76025.json",
+					"name" : "app_quick_controls_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls_autogen_timestamp_deps-Debug-9708dc1719c047c47d14.json",
+					"name" : "app_quick_controls_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls_qmlimportscan-Debug-9ba911fac955033320d0.json",
+					"name" : "app_quick_controls_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls_qmllint-Debug-633c8653ba31e9672d58.json",
+					"name" : "app_quick_controls_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls_qmllint_json-Debug-eabc1c2753c3f9b8a110.json",
+					"name" : "app_quick_controls_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls_qmllint_module-Debug-a3ec7ed809882dd7cb5b.json",
+					"name" : "app_quick_controls_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls_qmltyperegistration-Debug-983146acf86373608219.json",
+					"name" : "app_quick_controls_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_quick_controls_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_quick_controls_tooling-Debug-95bbde4ac9ef142e60ad.json",
+					"name" : "app_quick_controls_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug",
+		"source" : "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/files"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,14 @@
+-rootPath
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files
+-cmake-output
+-output-file
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/.qt/qml_imports/QtIVI_compositor_conf.cmake
+-importPath
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/ivi_compositor
+-importPath
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug
+-importPath
+/home/jzz0b5/Qt/6.7.2/gcc_64/./qml
+-qrcFiles
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_ivi_compositor.qrc
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/QtIVI_compositor_raw_qml_0.qrc

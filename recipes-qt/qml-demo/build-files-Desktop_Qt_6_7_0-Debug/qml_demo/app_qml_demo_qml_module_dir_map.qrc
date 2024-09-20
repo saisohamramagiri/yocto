@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml_demo">/home/yocto/sources/meta-santhosh/recipes-qt/qml-demo/build-files-Desktop_Qt_6_7_0-Debug/qml_demo</file>
+
+  </qresource>
+</RCC>

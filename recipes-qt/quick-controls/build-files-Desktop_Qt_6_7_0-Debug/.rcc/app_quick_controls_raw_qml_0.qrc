@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/quick_controls/">
+    <file alias="Main2.qml">/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/files/Main2.qml</file>
+  </qresource>
+</RCC>
+

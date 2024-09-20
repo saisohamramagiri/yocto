@@ -1,0 +1,5 @@
+--resource
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-demo/files/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_qml_demo.qrc
+--resource
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-demo/files/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/app_qml_demo_raw_qml_0.qrc
+/qml_demo/Main.qml

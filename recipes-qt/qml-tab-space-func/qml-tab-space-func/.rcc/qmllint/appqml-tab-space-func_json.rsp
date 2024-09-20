@@ -1,0 +1,12 @@
+--bare
+-I
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-tab-space-func/qml-tab-space-func
+-I
+/home/jzz0b5/Qt/6.7.2/gcc_64/./qml
+--resource
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-tab-space-func/qml-tab-space-func/.qt/rcc/qmake_qml-tab-space-func.qrc
+--resource
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-tab-space-func/qml-tab-space-func/.qt/rcc/appqml-tab-space-func_raw_qml_0.qrc
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-tab-space-func/qml-tab-space-func/TABMain.qml
+--json
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-tab-space-func/qml-tab-space-func/appqml-tab-space-func_qmllint.json

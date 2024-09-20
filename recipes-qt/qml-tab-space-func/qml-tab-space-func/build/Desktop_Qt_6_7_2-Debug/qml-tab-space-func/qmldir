@@ -1,0 +1,5 @@
+module qml-tab-space-func
+typeinfo appqml-tab-space-func.qmltypes
+prefer :/qt/qml/qml-tab-space-func/
+TABMain 1.0 TABMain.qml
+

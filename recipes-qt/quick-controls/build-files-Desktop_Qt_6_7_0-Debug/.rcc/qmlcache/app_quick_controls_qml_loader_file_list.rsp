@@ -1,0 +1,5 @@
+--resource
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug/.rcc/qmake_quick_controls.qrc
+--resource
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug/.rcc/app_quick_controls_raw_qml_0.qrc
+/quick_controls/Main2.qml

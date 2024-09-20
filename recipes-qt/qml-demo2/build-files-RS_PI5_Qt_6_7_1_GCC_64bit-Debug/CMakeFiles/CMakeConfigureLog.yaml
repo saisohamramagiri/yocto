@@ -1,0 +1,197 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:211 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Linux - 5.15.0-91-generic - x86_64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ 
+      Build flags: -O2;-pipe;-g;-feliminate-unused-debug-types
+      Id flags: -c;--target=aarch64-poky-linux 
+      
+      The output was:
+      1
+      aarch64-poky-linux-g++: error: unrecognized command-line option ‘--target=aarch64-poky-linux’
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ 
+      Build flags: -O2;-pipe;-g;-feliminate-unused-debug-types
+      Id flags:  
+      
+      The output was:
+      1
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find Scrt1.o: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find crti.o: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find crtbeginS.o: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find -lstdc++: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find -lm: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find -lgcc_s: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find -lgcc: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find -lc: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find -lgcc_s: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find -lgcc: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find crtendS.o: No such file or directory
+      /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: cannot find crtn.o: No such file or directory
+      collect2: error: ld returned 1 exit status
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ 
+      Build flags: -O2;-pipe;-g;-feliminate-unused-debug-types
+      Id flags: -c 
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+      
+      The CXX compiler identification is GNU, found in:
+        /data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.o
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-g3ekoR"
+      binary: "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-g3ekoR"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "aarch64-poky-linux"
+      CMAKE_CXX_FLAGS: "-O2 -pipe -g -feliminate-unused-debug-types"
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_C_COMPILER_TARGET: "aarch64-poky-linux"
+      CMAKE_EXE_LINKER_FLAGS: "-Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed  -Wl,-z,relro,-z,now"
+      CMAKE_SYSROOT: "/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-g3ekoR'
+        
+        Run Build Command(s): /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/ninja -v cmTC_59610
+        [1/2] /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ --sysroot=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux   -O2 -pipe -g -feliminate-unused-debug-types  -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_59610.dir/CMakeCXXCompilerABI.cpp.o -c /home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp
+        Using built-in specs.
+        COLLECT_GCC=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++
+        Target: aarch64-poky-linux
+        Configured with: ../../../../../../work-shared/gcc-11.4.0-r0/gcc-11.4.0/configure --build=x86_64-linux --host=x86_64-pokysdk-linux --target=aarch64-poky-linux --prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr --exec_prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr --bindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux --sbindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux --libexecdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux --datadir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/share --sysconfdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/etc --sharedstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/com --localstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/var --libdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux --includedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/include --oldincludedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/include --infodir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/share/info --mandir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/share/man --disable-silent-rules --disable-dependency-tracking --with-libtool-sysroot=/data/Raspberry/BuildSystem/Yacto/build/tmp/work/x86_64-nativesdk-pokysdk-linux/gcc-cross-canadian-aarch64/11.4.0-r0/recipe-sysroot --with-gnu-ld --enable-shared --enable-languages=c,c++ --enable-threads=posix --enable-multilib --enable-default-pie --enable-c99 --enable-long-long --enable-symvers=gnu --enable-libstdcxx-pch --program-prefix=aarch64-poky-linux- --without-local-prefix --disable-install-libiberty --disable-libssp --enable-libitm --enable-lto --disable-bootstrap --with-system-zlib --with-linker-hash-style=gnu --enable-linker-build-id --with-ppl=no --with-cloog=no --enable-checking=release --enable-cheaders=c_global --without-isl --with-gxx-include-dir=/not/exist/usr/include/c++/11.4.0 --with-build-time-tools=/data/Raspberry/BuildSystem/Yacto/build/tmp/work/x86_64-nativesdk-pokysdk-linux/gcc-cross-canadian-aarch64/11.4.0-r0/recipe-sysroot-native/usr/aarch64-poky-linux/bin --with-sysroot=/not/exist --with-build-sysroot=/data/Raspberry/BuildSystem/Yacto/build/tmp/work/x86_64-nativesdk-pokysdk-linux/gcc-cross-canadian-aarch64/11.4.0-r0/recipe-sysroot --with-plugin-ld=ld --enable-poison-system-directories --disable-static --enable-nls --with-glibc-version=2.28 --enable-initfini-array --enable-__cxa_atexit
+        Thread model: posix
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 11.4.0 (GCC) 
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-O2' '-pipe' '-g' '-feliminate-unused-debug-types' '-v' '-o' 'CMakeFiles/cmTC_59610.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-dumpdir' 'CMakeFiles/cmTC_59610.dir/'
+         /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/cc1plus -quiet -v -isysroot /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux -D_GNU_SOURCE /home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_59610.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mlittle-endian -mabi=lp64 -g -O2 -version -fdiagnostics-color=always -feliminate-unused-debug-types -o - |
+         /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/as -v --gdwarf-5 -EL -mabi=lp64 -o CMakeFiles/cmTC_59610.dir/CMakeCXXCompilerABI.cpp.o
+        GNU assembler version 2.38 (aarch64-poky-linux) using BFD version (GNU Binutils) 2.38.20220708
+        GNU C++17 (GCC) version 11.4.0 (aarch64-poky-linux)
+        	compiled by GNU C version 11.4.0, GMP version 6.2.1, MPFR version 4.1.1, MPC version 1.2.1, isl version none
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring nonexistent directory "/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/include/c++/11.4.0/aarch64-poky-linux"
+        ignoring nonexistent directory "/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/11.4.0/include"
+        ignoring nonexistent directory "/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/local/include"
+        ignoring nonexistent directory "/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/../../../../../aarch64-poky-linux/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/include/c++/11.4.0
+         /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/include/c++/11.4.0/backward
+         /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/include
+         /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/include-fixed
+         /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/include/
+        End of search list.
+        GNU C++17 (GCC) version 11.4.0 (aarch64-poky-linux)
+        	compiled by GNU C version 11.4.0, GMP version 6.2.1, MPFR version 4.1.1, MPC version 1.2.1, isl version none
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: 186c35d3d536f294565c04933e660cf1
+        COMPILER_PATH=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/
+        LIBRARY_PATH=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/lib/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-O2' '-pipe' '-g' '-feliminate-unused-debug-types' '-v' '-o' 'CMakeFiles/cmTC_59610.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-dumpdir' 'CMakeFiles/cmTC_59610.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] : && /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ --sysroot=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux -O2 -pipe -g -feliminate-unused-debug-types -Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed  -Wl,-z,relro,-z,now -v CMakeFiles/cmTC_59610.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_59610   && :
+        \x1b[31mFAILED: \x1b[0mcmTC_59610 
+        : && /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ --sysroot=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux -O2 -pipe -g -feliminate-unused-debug-types -Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed  -Wl,-z,relro,-z,now -v CMakeFiles/cmTC_59610.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_59610   && :
+        Using built-in specs.
+        COLLECT_GCC=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++
+        COLLECT_LTO_WRAPPER=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/lto-wrapper
+        Target: aarch64-poky-linux
+        Configured with: ../../../../../../work-shared/gcc-11.4.0-r0/gcc-11.4.0/configure --build=x86_64-linux --host=x86_64-pokysdk-linux --target=aarch64-poky-linux --prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr --exec_prefix=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr --bindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux --sbindir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux --libexecdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux --datadir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/share --sysconfdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/etc --sharedstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/com --localstatedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/var --libdir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux --includedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/include --oldincludedir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/include --infodir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/share/info --mandir=/usr/local/oe-sdk-hardcoded-buildpath/sysroots/x86_64-pokysdk-linux/usr/share/man --disable-silent-rules --disable-dependency-tracking --with-libtool-sysroot=/data/Raspberry/BuildSystem/Yacto/build/tmp/work/x86_64-nativesdk-pokysdk-linux/gcc-cross-canadian-aarch64/11.4.0-r0/recipe-sysroot --with-gnu-ld --enable-shared --enable-languages=c,c++ --enable-threads=posix --enable-multilib --enable-default-pie --enable-c99 --enable-long-long --enable-symvers=gnu --enable-libstdcxx-pch --program-prefix=aarch64-poky-linux- --without-local-prefix --disable-install-libiberty --disable-libssp --enable-libitm --enable-lto --disable-bootstrap --with-system-zlib --with-linker-hash-style=gnu --enable-linker-build-id --with-ppl=no --with-cloog=no --enable-checking=release --enable-cheaders=c_global --without-isl --with-gxx-include-dir=/not/exist/usr/include/c++/11.4.0 --with-build-time-tools=/data/Raspberry/BuildSystem/Yacto/build/tmp/work/x86_64-nativesdk-pokysdk-linux/gcc-cross-canadian-aarch64/11.4.0-r0/recipe-sysroot-native/usr/aarch64-poky-linux/bin --with-sysroot=/not/exist --with-build-sysroot=/data/Raspberry/BuildSystem/Yacto/build/tmp/work/x86_64-nativesdk-pokysdk-linux/gcc-cross-canadian-aarch64/11.4.0-r0/recipe-sysroot --with-plugin-ld=ld --enable-poison-system-directories --disable-static --enable-nls --with-glibc-version=2.28 --enable-initfini-array --enable-__cxa_atexit
+        Thread model: posix
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 11.4.0 (GCC) 
+        COMPILER_PATH=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/
+        LIBRARY_PATH=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/lib/:/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/
+        COLLECT_GCC_OPTIONS='-O2' '-pipe' '-g' '-feliminate-unused-debug-types' '-v' '-o' 'cmTC_59610' '-shared-libgcc' '-mlittle-endian' '-mabi=lp64' '-dumpdir' 'cmTC_59610.'
+         /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/collect2 -plugin /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/liblto_plugin.so -plugin-opt=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccLWYRxB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux --build-id --eh-frame-hdr --hash-style=gnu -dynamic-linker /lib/ld-linux-aarch64.so.1 -X -EL -maarch64linux -pie -o cmTC_59610 /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/Scrt1.o /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/crti.o crtbeginS.o -L/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0 -L/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/lib -L/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib -O1 --hash-style=gnu --as-needed -z relro -z now CMakeFiles/cmTC_59610.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc crtendS.o /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/crtn.o
+        /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/Scrt1.o: Relocations in generic ELF (EM: 62)
+        /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/Scrt1.o: Relocations in generic ELF (EM: 62)
+        /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/Scrt1.o: error adding symbols: file in wrong format
+        collect2: error: ld returned 1 exit status
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/home/fz33vf/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:49 (try_compile)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Check for working CXX compiler: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++"
+    directories:
+      source: "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-bK03LT"
+      binary: "/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-bK03LT"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "aarch64-poky-linux"
+      CMAKE_CXX_FLAGS: "-O2 -pipe -g -feliminate-unused-debug-types"
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_C_COMPILER_TARGET: "aarch64-poky-linux"
+      CMAKE_EXE_LINKER_FLAGS: "-Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed  -Wl,-z,relro,-z,now"
+      CMAKE_SYSROOT: "/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux"
+    buildResult:
+      variable: "CMAKE_CXX_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: '/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-bK03LT'
+        
+        Run Build Command(s): /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/ninja -v cmTC_63116
+        [1/2] /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ --sysroot=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux   -O2 -pipe -g -feliminate-unused-debug-types  -fdiagnostics-color=always -o CMakeFiles/cmTC_63116.dir/testCXXCompiler.cxx.o -c /data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/CMakeFiles/CMakeScratch/TryCompile-bK03LT/testCXXCompiler.cxx
+        [2/2] : && /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ --sysroot=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux -O2 -pipe -g -feliminate-unused-debug-types -Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed  -Wl,-z,relro,-z,now CMakeFiles/cmTC_63116.dir/testCXXCompiler.cxx.o -o cmTC_63116   && :
+        \x1b[31mFAILED: \x1b[0mcmTC_63116 
+        : && /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/bin/aarch64-poky-linux/aarch64-poky-linux-g++ --sysroot=/opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux -O2 -pipe -g -feliminate-unused-debug-types -Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed  -Wl,-z,relro,-z,now CMakeFiles/cmTC_63116.dir/testCXXCompiler.cxx.o -o cmTC_63116   && :
+        /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/Scrt1.o: Relocations in generic ELF (EM: 62)
+        /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/Scrt1.o: Relocations in generic ELF (EM: 62)
+        /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/libexec/aarch64-poky-linux/gcc/aarch64-poky-linux/11.4.0/ld: /opt/poky/4.0.17/sysroots/x86_64-pokysdk-linux/usr/lib/Scrt1.o: error adding symbols: file in wrong format
+        collect2: error: ld returned 1 exit status
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+...

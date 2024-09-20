@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qml-brightness-socket/">
+    <file alias="Main.qml">/home/jzz0b5/yacto/meta-santhosh/recipes-qt/qml-brightness-socket/qml-brightness-socket/Main.qml</file>
+  </qresource>
+</RCC>
+

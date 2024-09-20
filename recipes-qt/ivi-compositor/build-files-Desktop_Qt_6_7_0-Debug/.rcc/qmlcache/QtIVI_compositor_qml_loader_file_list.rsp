@@ -1,0 +1,5 @@
+--resource
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/ivi-compositor/build-files-Desktop_Qt_6_7_0-Debug/.rcc/qmake_ivi_compositor.qrc
+--resource
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/ivi-compositor/build-files-Desktop_Qt_6_7_0-Debug/.rcc/QtIVI_compositor_raw_qml_0.qrc
+/ivi_compositor/IVImain.qml

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6e536afcc5e6be3e6c01.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qml-tab-space-func",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1dd03763f8b289746579.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-d01035fb9843b0c3ff43.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-86caffd75bb3a4082cd0.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1faaf61829783a6f1f17.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func-Debug-7bc732b60f71c222697b.json",
+					"name" : "appqml-tab-space-func",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func_autogen-Debug-b017919f57851f0535a1.json",
+					"name" : "appqml-tab-space-func_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func_autogen_timestamp_deps-Debug-617fd5f19fb6fc410a65.json",
+					"name" : "appqml-tab-space-func_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func_qmlimportscan-Debug-eb13e9db2d6f5ea4c308.json",
+					"name" : "appqml-tab-space-func_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func_qmllint-Debug-c491dcf1c084e7cee3f9.json",
+					"name" : "appqml-tab-space-func_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func_qmllint_json-Debug-460c1977a6fdcdfff3f3.json",
+					"name" : "appqml-tab-space-func_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func_qmllint_module-Debug-ea9fcca75c44e56fa0ca.json",
+					"name" : "appqml-tab-space-func_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func_qmltyperegistration-Debug-1b6cd8c7e3500048ddee.json",
+					"name" : "appqml-tab-space-func_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml-tab-space-func_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml-tab-space-func_tooling-Debug-2c382f23cddf2c3cf24f.json",
+					"name" : "appqml-tab-space-func_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-tab-space-func/qml-tab-space-func",
+		"source" : "/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-tab-space-func/qml-tab-space-func"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

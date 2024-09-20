@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5f6bb0f015b67f580fa8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtIVI_compositor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor-Debug-f183def43c9711683373.json",
+					"name" : "QtIVI_compositor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor_autogen-Debug-9c506af0095449328fc3.json",
+					"name" : "QtIVI_compositor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor_autogen_timestamp_deps-Debug-bc28063b5e4e95dec752.json",
+					"name" : "QtIVI_compositor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor_qmlimportscan-Debug-fc89f484893e152ed5cf.json",
+					"name" : "QtIVI_compositor_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor_qmllint-Debug-72c12b5954355e6295dd.json",
+					"name" : "QtIVI_compositor_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor_qmllint_json-Debug-9bf2a70b66480413aea5.json",
+					"name" : "QtIVI_compositor_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor_qmllint_module-Debug-dae1838104bb5994cbaf.json",
+					"name" : "QtIVI_compositor_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor_qmltyperegistration-Debug-a8b19cf06081e873d4a5.json",
+					"name" : "QtIVI_compositor_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtIVI_compositor_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtIVI_compositor_tooling-Debug-2fe93497dc41f95247aa.json",
+					"name" : "QtIVI_compositor_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-01e2ea5383ecf5709114.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-00db393f61b7fc92db98.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9dadf1da94dfbf1755ae.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-13b4cee6c13034bc6a74.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

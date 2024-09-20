@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/ivi_compositor">/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/ivi_compositor</file>
+
+  </qresource>
+</RCC>

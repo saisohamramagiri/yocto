@@ -1,0 +1,5 @@
+module qml_demo
+typeinfo app_qml_demo.qmltypes
+prefer :/qml_demo/
+Main 1.0 Main.qml
+

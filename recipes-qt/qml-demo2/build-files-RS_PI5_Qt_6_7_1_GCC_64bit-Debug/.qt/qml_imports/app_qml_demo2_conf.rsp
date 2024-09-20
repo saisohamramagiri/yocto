@@ -1,0 +1,14 @@
+-rootPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/files
+-cmake-output
+-output-file
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/.qt/qml_imports/app_qml_demo2_conf.cmake
+-importPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/qml_demo
+-importPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug
+-importPath
+/opt/poky/4.0.17/sysroots/cortexa76-poky-linux/usr/lib/qml
+-qrcFiles
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/.qt/rcc/qmake_qml_demo.qrc
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo2/build-files-RS_PI5_Qt_6_7_1_GCC_64bit-Debug/.qt/rcc/app_qml_demo2_raw_qml_0.qrc

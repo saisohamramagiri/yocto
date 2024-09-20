@@ -1,0 +1,1 @@
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-tab-space-func/qml-tab-space-func/appqml-tab-space-func_autogen/include/../EWIEGA46WW/moc_LocalSocketWrapperNew.cpp.json

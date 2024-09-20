@@ -1,0 +1,1 @@
+/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-client2/qml-client2/build/Desktop_Qt_6_7_2-Debug/appqml-client2_autogen/include/../EWIEGA46WW/moc_client2localsocketwrapper.cpp.json

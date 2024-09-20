@@ -1,0 +1,1 @@
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug/app_quick_controls_autogen/include/../EWIEGA46WW/moc_windowsan.cpp.json

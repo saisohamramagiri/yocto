@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qml-tab-space-func">
+    <file alias="qmldir">/home/jzz0b5/yocto-new/sources/meta-santhosh/recipes-qt/qml-tab-space-func/qml-tab-space-func/build/Desktop_Qt_6_7_2-Debug/qml-tab-space-func/qmldir</file>
+  </qresource>
+</RCC>
+

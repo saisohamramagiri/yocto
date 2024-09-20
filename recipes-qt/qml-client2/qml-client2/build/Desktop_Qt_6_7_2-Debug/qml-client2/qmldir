@@ -1,0 +1,5 @@
+module qml-client2
+typeinfo appqml-client2.qmltypes
+prefer :/qt/qml/qml-client2/
+Client2Main 1.0 Client2Main.qml
+

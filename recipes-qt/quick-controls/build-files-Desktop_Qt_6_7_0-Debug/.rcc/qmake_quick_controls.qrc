@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/quick_controls">
+    <file alias="qmldir">/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/quick-controls/build-files-Desktop_Qt_6_7_0-Debug/quick_controls/qmldir</file>
+  </qresource>
+</RCC>
+

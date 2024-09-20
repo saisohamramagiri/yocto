@@ -1,0 +1,14 @@
+-rootPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/files
+-cmake-output
+-output-file
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/build-files-Desktop_Qt_6_7_0-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app_qml_demo.cmake
+-importPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/build-files-Desktop_Qt_6_7_0-Debug/qml_demo
+-importPath
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/build-files-Desktop_Qt_6_7_0-Debug
+-importPath
+/home/fz33vf/Qt/6.7.0/gcc_64/./qml
+-qrcFiles
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/build-files-Desktop_Qt_6_7_0-Debug/.rcc/qmake_qml_demo.qrc
+/data/Raspberry/BuildSystem/Yacto/meta-santhosh/recipes-qt/qml-demo/build-files-Desktop_Qt_6_7_0-Debug/.rcc/app_qml_demo_raw_qml_0.qrc

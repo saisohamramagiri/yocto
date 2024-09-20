@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qml-brightness-socket">
+    <file alias="qmldir">/home/jzz0b5/yacto/meta-santhosh/recipes-qt/qml-brightness-socket/qml-brightness-socket/build/Desktop_Qt_6_7_2-Debug/qml-brightness-socket/qmldir</file>
+  </qresource>
+</RCC>
+

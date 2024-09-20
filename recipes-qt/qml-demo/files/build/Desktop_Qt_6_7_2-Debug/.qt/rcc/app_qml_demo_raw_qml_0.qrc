@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml_demo/">
+    <file alias="Main.qml">/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-demo/files/Main.qml</file>
+  </qresource>
+</RCC>
+

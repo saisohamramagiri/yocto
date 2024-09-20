@@ -1,0 +1,5 @@
+module ivi_compositor
+typeinfo QtIVI_compositor.qmltypes
+prefer :/ivi_compositor/
+IVImain 1.0 IVImain.qml
+

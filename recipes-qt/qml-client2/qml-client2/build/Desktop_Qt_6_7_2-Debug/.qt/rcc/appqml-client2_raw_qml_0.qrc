@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qml-client2/">
+    <file alias="Client2Main.qml">/home/jzz0b5/yocto-new/sources/meta-custom-layer/recipes-qt/qml-client2/qml-client2/Client2Main.qml</file>
+  </qresource>
+</RCC>
+
